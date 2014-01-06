@@ -1,6 +1,6 @@
 # Intro to Software Engineering, Spring 2008
 
-![](screenshot.png)
+![](doc/screenshot.png)
 
 ## Team Members
 
